@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62ba8bff.chunk.css",
+    "main.js": "/static/js/main.bf1914f2.chunk.js",
+    "main.js.map": "/static/js/main.bf1914f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fcfcfe48.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fcfcfe48.js.map",
+    "static/css/2.18061f9a.chunk.css": "/static/css/2.18061f9a.chunk.css",
+    "static/js/2.64109826.chunk.js": "/static/js/2.64109826.chunk.js",
+    "static/js/2.64109826.chunk.js.map": "/static/js/2.64109826.chunk.js.map",
+    "static/js/3.86299446.chunk.js": "/static/js/3.86299446.chunk.js",
+    "static/js/3.86299446.chunk.js.map": "/static/js/3.86299446.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8383e89f585c2675360fa0fb3d43c273.js": "/precache-manifest.8383e89f585c2675360fa0fb3d43c273.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.18061f9a.chunk.css.map": "/static/css/2.18061f9a.chunk.css.map",
+    "static/css/main.62ba8bff.chunk.css.map": "/static/css/main.62ba8bff.chunk.css.map",
+    "static/js/2.64109826.chunk.js.LICENSE.txt": "/static/js/2.64109826.chunk.js.LICENSE.txt",
+    "static/media/cancun.jpg": "/static/media/cancun.cd98e2c3.jpg",
+    "static/media/dubai.jpg": "/static/media/dubai.df994899.jpg",
+    "static/media/london.jpg": "/static/media/london.841651c3.jpg",
+    "static/media/los-angeles.jpg": "/static/media/los-angeles.73d8ec96.jpg",
+    "static/media/map-background.jpg": "/static/media/map-background.c21df147.jpg",
+    "static/media/san-fransisco.jpg": "/static/media/san-fransisco.23aadf81.jpg",
+    "static/media/toronto.jpg": "/static/media/toronto.3c573d34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcfcfe48.js",
+    "static/css/2.18061f9a.chunk.css",
+    "static/js/2.64109826.chunk.js",
+    "static/css/main.62ba8bff.chunk.css",
+    "static/js/main.bf1914f2.chunk.js"
+  ]
+}
